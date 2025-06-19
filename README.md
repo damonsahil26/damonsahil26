@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @damonsahil26
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on .NET Core With React Projects
+- 🌱 I’m currently learning Angular JS
+- 💞️ I’m looking to collaborate on .NET Core With Angular Projects
 - 📫 How to reach me @ sahil061626@gmail.com
 
 <!---
